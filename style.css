@@ -1,0 +1,10 @@
+.header-bar {
+    padding: 40px;
+    background: lightslategray;
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+.container {
+    width: 75%;
+}
